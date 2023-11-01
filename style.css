@@ -154,6 +154,7 @@ body {
 @media(min-width:950px) {
   .container {
     width: 50%;
+    margin: 0 auto;
   }
 
   .container__input {
